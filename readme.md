@@ -1,3 +1,4 @@
+## Linux commands 
 1. `ls` - List directory contents.
 2. `cd [directory]` - Change directory.
 3. `pwd` - Print working directory.
@@ -8,6 +9,7 @@
 8. `mv [source] [destination]` - Move or rename files.
 9. `chmod [permissions] [file]` - Change file permissions.
 10. `chown [owner] [file]` - Change file ownership.
+## GIT commands
 11. `git init` - Initialize a Git repository.
 12. `git clone [repository URL]` - Clone a repository.
 13. `git add [file]` - Add files to staging area.
